@@ -1,0 +1,65 @@
+.header{
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+    color: red;
+    height: 80px;
+    font-size: 25px;
+    font-weight: 900;
+    padding-top: 50px;
+}
+.header-link{
+    text-align: center;
+    background-color: blanchedalmond;
+    width: 100%;
+    font-size: 25px;
+    color: red;
+    font-weight: 900;
+}
+.main{
+    width: 100%;
+}
+#left{
+    width: 20%;
+    height: 250px;
+    background-color: cornflowerblue;
+    float: left;
+    font-size: 25px;
+    color: red;
+    font-weight: 900;
+    padding-top: 250px;
+    text-align: center;
+}
+#content{
+    width: 60%;
+    height: 250px;
+    background-color: lightskyblue;
+    float: left;
+    color: red;
+    font-size: 25px;
+    font-weight: 900;
+    padding-top: 250px;
+    text-align: center;
+}
+#right{
+    width: 20%;
+    float: left;
+    background-color: thistle;
+    color: red;
+    font-size: 25px;
+    font-weight: 900;
+    height: 250px;
+    padding-top: 250px;
+    text-align: center;
+}
+.footer{
+    width: 100%;
+    height: 50px;
+    float: left;
+    text-align: center;
+    background-color: darkgrey;
+    font-size: 25px;
+    color: red;
+    padding-top: 30px;
+    font-weight: 900;
+}
